@@ -3,7 +3,7 @@
 ## Introduction
 Welcome to the repository of AZCart, a comprehensive clothes shopping application built with SwiftUi. AZCart is designed to provide a delightful experience for fashion enthusiasts, offering features like searching nearby clothing stores, apparel item listing, and order systems.
 
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-02-21 at 14 49 47](https://github.com/mobilions/AZCart/assets/157694856/dc1b8d64-4a5b-43f6-8915-481648fc35dc)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-02-21 at 14 49 47](https://github.com/mobilions/AZCart/assets/157694856/e3623591-c9d6-4ae8-90fb-7834fa7a508f)
 ![Simulator Screenshot - iPhone 15 Pro Max - 2024-02-21 at 14 49 36](https://github.com/mobilions/AZCart/assets/157694856/34ef8832-b491-4a58-8191-6808cf0c9a99)
 
 ## Getting Started
