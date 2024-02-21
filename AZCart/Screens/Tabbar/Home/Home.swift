@@ -110,7 +110,7 @@ struct Home: View {
                                 }
                                 .cornerRadius(16)
                             }
-                            .padding(.leading, 20)
+                            .padding(.horizontal, 20)
                             
                             Spacer().frame(height: 48)
                             
@@ -138,7 +138,7 @@ struct Home: View {
                                     }
                                 }
                             }
-                            .padding(.leading, 20)
+                            .padding(.horizontal, 20)
                             
                             // MARK: - Categories types
                             
@@ -365,7 +365,7 @@ struct Home: View {
                                     }
                                 }
                             }
-                            .padding(.leading, 20)
+                            .padding(.horizontal, 20)
                             
                             Spacer().frame(height: 20)
                         }
