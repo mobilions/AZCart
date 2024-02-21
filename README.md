@@ -1,4 +1,4 @@
-# AZCart Pattern SwiftUI App
+# AZCart - SwiftUI App
 
 ## Introduction
 Welcome to the repository of AZCart, a comprehensive clothes shopping application built with SwiftUi. AZCart is designed to provide a delightful experience for fashion enthusiasts, offering features like searching nearby clothing stores, apparel item listing, and order systems.
