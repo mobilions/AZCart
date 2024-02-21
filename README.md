@@ -5,6 +5,7 @@ Welcome to the repository of AZCart, a comprehensive clothes shopping applicatio
 
 ![Simulator Screenshot - iPhone 15 Pro Max - 2024-02-21 at 14 49 47](https://github.com/mobilions/AZCart/assets/157694856/e3623591-c9d6-4ae8-90fb-7834fa7a508f)
 ![Simulator Screenshot - iPhone 15 Pro Max - 2024-02-21 at 14 49 36](https://github.com/mobilions/AZCart/assets/157694856/2abd03c0-f6bf-4f5e-bc98-3761974f0847)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-02-21 at 15 02 30](https://github.com/mobilions/AZCart/assets/157694856/5e3d4637-0c32-4e03-abe5-aba5dafeff62)
 
 ## Getting Started
 To run AZCart on your local machine, follow these steps:
