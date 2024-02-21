@@ -117,11 +117,11 @@ struct Home: View {
                             // MARK: - New arrivals
                             
                             Text("EXPLORE TOP BRANDS".capitalized(with: .autoupdatingCurrent))
-                                .frame(width: abs(screenSize.width / 1.25))
+                                .frame(width: abs(screenSize.width - 50), alignment: .center)
                                 .font(.custom(getPoppinsFont(weight: .SemiBold), size: 16))
                             Spacer().frame(height: 5)
                             Text("See the latest products in one place")
-                                .frame(width: abs(screenSize.width / 1.25))
+                                .frame(width: abs(screenSize.width - 50), alignment: .center)
                                 .font(.custom(getPoppinsFont(weight: .Regular), size: 14)).foregroundColor(.black50)
                             
                             Spacer().frame(height: 20)
@@ -147,7 +147,7 @@ struct Home: View {
                                 .font(.custom(getPoppinsFont(weight: .SemiBold), size: 14))
                             Spacer().frame(height: 5)
                             Text("We’ve got it all from Tiny to Teens")
-                                .frame(width: abs(screenSize.width / 1.25))
+                                .frame(width: abs(screenSize.width - 50), alignment: .center)
                                 .font(.custom(getPoppinsFont(weight: .Regular), size: 14)).foregroundColor(.black50)
                             
                             Spacer().frame(height: 14)
@@ -220,7 +220,7 @@ struct Home: View {
                                 
                                 Spacer().frame(height: 5)
                                 Text("Grab the best deals")
-                                    .frame(width: abs(screenSize.width / 1.25))
+                                    .frame(width: abs(screenSize.width - 50), alignment: .center)
                                     .font(.custom(getPoppinsFont(weight: .Regular), size: 14)).foregroundColor(.black50)
                                 
                                 ScrollView(.horizontal, showsIndicators: false) {
@@ -276,11 +276,11 @@ struct Home: View {
                             // MARK: - Promotional Data
                             
                             Text("Bestsellers in Women's Indian Clothing")
-                                .frame(width: abs(screenSize.width / 1.25))
+                                .frame(width: abs(screenSize.width - 50), alignment: .center)
                                 .font(.custom(getPoppinsFont(weight: .SemiBold), size: 16))
                             Spacer().frame(height: 5)
                             Text("Best deals on women's clothing")
-                                .frame(width: abs(screenSize.width / 1.25))
+                                .frame(width: abs(screenSize.width - 50), alignment: .center)
                                 .font(.custom(getPoppinsFont(weight: .Regular), size: 14)).foregroundColor(.black50)
                             
                             Spacer().frame(height: 16)
@@ -311,11 +311,11 @@ struct Home: View {
                             // MARK: - Designers
                             
                             Text("WORTHY BRANDS TO BAG".capitalized(with: .autoupdatingCurrent))
-                                .frame(width: abs(screenSize.width / 1.25))
+                                .frame(width: abs(screenSize.width - 50), alignment: .center)
                                 .font(.custom(getPoppinsFont(weight: .SemiBold), size: 16))
                             Spacer().frame(height: 5)
                             Text("Top Best Brands and collections")
-                                .frame(width: abs(screenSize.width / 1.25))
+                                .frame(width: abs(screenSize.width - 50), alignment: .center)
                                 .font(.custom(getPoppinsFont(weight: .Regular), size: 14)).foregroundColor(.black50)
                             
                             Spacer().frame(height: 20)
@@ -344,11 +344,11 @@ struct Home: View {
                             // MARK: - Trending
                             
                             Text("Top Picks")
-                                .frame(width: abs(screenSize.width / 1.25))
+                                .frame(width: abs(screenSize.width - 50), alignment: .center)
                                 .font(.custom(getPoppinsFont(weight: .SemiBold), size: 16))
                             Spacer().frame(height: 5)
                             Text("At rock bottom prices !!")
-                                .frame(width: abs(screenSize.width / 1.25))
+                                .frame(width: abs(screenSize.width - 50), alignment: .center)
                                 .font(.custom(getPoppinsFont(weight: .Regular), size: 14)).foregroundColor(.black50)
                             
                             Spacer().frame(height: 20)
